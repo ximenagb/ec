@@ -25,7 +25,7 @@
 =  Import Google Fonts */
 @import url("https://fonts.googleapis.com/css?family=Product+Sans:400,400i,700,700i");
 @import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700");
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900");
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 /*-------------------------------------------------*/
 /*-------------------------------------------------*/
 /* =  1.Reset
@@ -1187,7 +1187,7 @@ header nav.navbar #logo a.navbar-brand img {
   line-height: 28px;
   margin-right: 36px;
   text-decoration: none;
-  background: #1F1F1F;
+  background: #f4a800;
   padding: 0 8px;
 }
 
@@ -1223,7 +1223,7 @@ section.auto {
 section .circle {
   width: 40px;
   height: 40px;
-  border: 12px solid #00BCD4;
+  border: 12px solid #f4a800;
   border-radius: 40%;
   z-index: 0;
 }
@@ -1237,13 +1237,13 @@ section .circle {
 section .circle.lg {
   width: 60px;
   height: 60px;
-  border: 18px solid #0097A7;
+  border: 18px solid #f4a800;
 }
 
 section .circle.md {
   width: 50px;
   height: 50px;
-  border: 14px solid #B2EBF2;
+  border: 14px solid #f4a800;
 }
 
 @media screen and (min-width: 1351px) and (max-width: 1450px) {
