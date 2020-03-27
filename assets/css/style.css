@@ -1078,11 +1078,11 @@ header nav.navbar #logo a.navbar-brand img {
       -ms-transform: rotate(-90deg);
           transform: rotate(-90deg);
   color: white;
-  font-family: "Inconsolata", monospace;
+  font-family: "Montserrat", monospace;
   font-size: 18px;
   line-height: 28px;
   margin-right: 36px;
-  background: #1F1F1F;
+  background:#f4a800;
   padding: 0 8px;
 }
 
@@ -2027,7 +2027,7 @@ section#works .single-project:hover figure em:not(.line) {
 }
 
 section#works .single-project:hover figure img {
-  opacity: .1;
+  opacity: none;
 }
 
 @media screen and (max-width: 991px) {
