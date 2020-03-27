@@ -77,7 +77,7 @@ a:focus {
 /* =  2.General
 /*-------------------------------------------------*/
 body {
-  font: 100% "Product Sans", sans-serif;
+  font: 100% "Montserrat", sans-serif;
   color: #f4a800;
   background-color: #fff;
   -webkit-font-smoothing: antialiased;
@@ -179,7 +179,7 @@ a:hover {
 }
 
 p {
-  font-family: "Inconsolata", monospace;
+  font-family: "Montserrat", monospace;
   font-weight: 300;
   font-size: 18px;
   line-height: 38px;
@@ -1398,7 +1398,7 @@ section#intro .text-top {
   position: relative;
   left: 0px;
   top: 100px;
-  color: #757576;
+  color: #cecece;
   text-transform: uppercase;
   opacity: 20%;
   z-index: -1;
@@ -1451,7 +1451,7 @@ section#intro .text-bottom {
   position: absolute;
   left: 0;
   bottom: 0;
-  color: #1F1F1F;
+  color: #6E6E6E;
   text-transform: uppercase;
   z-index: -1;
 }
@@ -1466,7 +1466,7 @@ section#intro .text-top, section#intro .text-bottom {
 }
 
 section#intro .text-top.hey, section#intro .text-bottom.hey {
-  color: #1A1A1A;
+  color: #6E6E6E;
   transition: 2s cubic-bezier(0.99, 0.44, 0, 0.95) color;
 }
 
@@ -1553,8 +1553,8 @@ section#intro .wrap-content {
 }
 
 section#intro .wrap-content h1 {
-  font-size: 165px;
-  line-height: 170px;
+  font-size: 60px;
+  line-height: 80px;
   font-weight: 700;
   letter-spacing: 2px;
   position: relative;
@@ -1695,7 +1695,7 @@ section#about .wrap-services {
 }
 
 section#about .wrap-services ul li {
-  font-family: "Inconsolata", monospace;
+  font-family: "Montserrat", monospace;
   font-weight: 300;
   font-size: 18px;
   line-height: 38px;
