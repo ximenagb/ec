@@ -1294,7 +1294,7 @@ section#intro .circle.circle1 {
 section#intro .imgcolombo {
   background-image: url(/assets/img/intro-colombo.svg);
   background-repeat: no-repeat;
-  height: 1000px;
+  height: 500px;
 }
 
 section#intro .circle.circle2 {
@@ -1845,14 +1845,14 @@ section#works img {
   max-width: 100%;
   height: auto;
   display: block;
-  /* box-shadow: 0 0 38px rgba(0, 0, 0, 0.3), 0 0 12px rgba(0, 0, 0, 0.22); */
+  box-shadow: 0 0 38px rgba(0, 0, 0, 0.3), 0 0 12px rgba(0, 0, 0, 0.22); 
   position: relative;
   z-index: 4;
   transition: all .4s ease;
 }
 
 section#works img:hover {
- /* box-shadow: 0 0 38px rgba(0, 0, 0, 0.8), 0 0 12px rgba(0, 0, 0, 0.8);*/
+ box-shadow: 0 0 38px rgba(0, 0, 0, 0.8), 0 0 12px rgba(0, 0, 0, 0.8);
   transition: all .4s ease;
 }
 
