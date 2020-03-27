@@ -1096,7 +1096,7 @@ header nav.navbar #logo a.navbar-brand img {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #1A1A1A;
+  background-color: #f4a800;
   z-index: 999;
   visibility: hidden;
   opacity: 0;
@@ -1141,7 +1141,7 @@ header nav.navbar #logo a.navbar-brand img {
 #banner-share ul li a {
   width: 150px;
   height: 150px;
-  background-color: #1F1F1F;
+  background-color:white;
   margin: 25px;
   line-height: 150px;
   font-size: 30px;
