@@ -1364,9 +1364,9 @@ section#intro .cookie-banner svg {
   -webkit-transform: rotate(90deg);
       -ms-transform: rotate(90deg);
           transform: rotate(90deg);
-  fill: white;
+  fill: #f4a800;
   height: 35px;
-  stroke: white;
+  stroke: black;
   stroke-width: 2px;
   float: left;
 }
